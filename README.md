@@ -5,7 +5,7 @@ This repository is solely made for the purposes of learning Git. I will be follo
 
 I'll also be documenting my learning in this README.md file.
 Update: Placing notes in their own markdown to avoid cluttering README.md. Will maintain dates here.
-
+new line added 
 [Day 1 (20-04-2025)](./Day1.md) : Life cycle of file status, init, status, add, commit, remove, ignore
 
 [Day 2 (23-04-2025)](./Day2.md) : git log and its options
