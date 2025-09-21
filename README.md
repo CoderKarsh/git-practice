@@ -10,5 +10,4 @@ Update: Placing notes in their own markdown to avoid cluttering README.md. Will 
 
 [Day 2 (23-04-2025)](./Day2.md) : git log and its options
 
-
-[Day 3 (02-05-2025)](./Day3.md) :day 3 added from kunal
+[Day 3 (02-05-2025)](./Day3.md) : leant more about git log
